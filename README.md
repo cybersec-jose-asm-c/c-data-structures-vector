@@ -17,13 +17,6 @@ Built with passion, systems thinking, and pure grind by **cybersec-jose-asm-c**.
 
 ## Features
 
-- **Hash Table**
-  - Chaining collision resolution
-  - Automatic resizing with prime growth
-  - Fine-grained locking (64 mutexes)
-  - Atomic element count
-  - Full thread-safety
-
 - **Dynamic Vector**
   - Auto-growing array
   - Load factor monitoring
